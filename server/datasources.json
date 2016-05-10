@@ -1,6 +1,14 @@
 {
-  "db": {
+  "default-db": {
     "name": "db",
     "connector": "memory"
+  },
+  "db": {
+    "name": "mongodb",
+    "connector": "mongodb",
+    "host": "localhost",
+    "user": "",
+    "password": "",
+    "database": "nested-acls-issue"
   }
 }
