@@ -27,11 +27,11 @@
     {
       "principalType": "ROLE",
       "principalId": "$everyone",
-      "permission": "ALLOW"
+      "permission": "DENY"
     },
     {
       "principalType": "ROLE",
-      "principalId": "randomModelRead",
+      "principalId": "randomModelFind",
       "permission": "ALLOW",
       "property": "find"
     }

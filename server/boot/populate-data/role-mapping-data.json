@@ -1,0 +1,14 @@
+[
+  {
+    "id": "571dd99a25dea8502e5aaba4",
+    "principalType": "ROLE",
+    "principalId": "571dd3358cea6408067e8df4",
+    "roleId": "571dd32a8cea6408067e8df3"
+  },
+  {
+    "id": "571ddbe50e0c2a84166d2c79",
+    "principalType": "USER",
+    "principalId": "5730f6b82eca2a182c717fcb",
+    "roleId": "571dd3358cea6408067e8df4"
+  }
+]
